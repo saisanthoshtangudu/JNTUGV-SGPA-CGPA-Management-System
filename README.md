@@ -25,5 +25,5 @@ A Python-based academic record management system that calculates SGPA and CGPA, 
 ## How to Run
 
 ```bash
-python main.py
+CGPA AND SGPA.py
 ```
